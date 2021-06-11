@@ -96,10 +96,6 @@ traitlets
 urllib3==1.25.11
 wcwidth==0.2.5
 webencodings==0.5.1
-gunicorn
-Werkzeug==1.0.1
-widgetsnbextension==3.5.1
-wrapt==1.12.1
 gunicorn==20.0.4
 Werkzeug==0.16.0
 Jinja2==2.10.1
